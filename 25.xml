@@ -1,0 +1,14 @@
+<question>
+    <image>25.png?raw=true</image>
+    <text>The graph above shows the percentages of women employed behind the scenes on the top 100 U.S. films by role in 2020, 2021, and 2022. ① For each of the three years, the percentage of women employed as producers on the top 100 U.S. films was the highest as compared with the percentages of each of the other three roles. ② The percentage of women employed as directors on the top 100 U.S. films in 2021 was lower than in 2020 but higher than in 2022. ③ The percentage of women employed as writers on the top 100 U.S. films increased by 4 percentage points from 2020 to 2021 and by 1 percentage point from 2021 to 2022. ④ The percentage of women employed as editors on the top 100 U.S. films was less than 20% in each of the three years. ⑤ In 2022, the percentage of women employed as producers on the top 100 U.S. films was the same as that in 2020.</text>
+    <question_text>다음 도표의 내용과 일치하지 않는 것은?</question_text>
+    <choices>
+        <choice>1</choice>
+        <choice>2</choice>
+        <choice>3</choice>
+        <choice>4</choice>
+        <choice>5</choice>
+    </choices>
+    <correct_answer>3</correct_answer>
+    <score>2</score>
+</question>

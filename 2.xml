@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>대화를 듣고, 남자의 의견으로 가장 적절한 것을 고르시오.</question_text>
+    <choices>
+        <choice>드라마 캠프는 효율적인 여가 시간 활용 수단이다.</choice>
+        <choice>좋은 연기를 하려면 다른 사람과의 협력이 중요하다.</choice>
+        <choice>좋은 연기를 하려면 다른 사람과의 협력이 중요하다.</choice>
+        <choice>원만한 교우 관계를 위해 친구의 말에 귀 기울여야 한다.</choice>
+        <choice>드라마 캠프 참여는 다양한 시각을 갖는 데 도움이 된다.</choice>
+    </choices>
+    <correct_answer>5</correct_answer>
+    <score>2</score>
+</question>

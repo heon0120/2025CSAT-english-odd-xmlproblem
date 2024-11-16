@@ -1,0 +1,17 @@
+<question>
+    <text>In reality, objects do not conform to a linear lifecycle model; instead, they undergo breakdowns, await repairs, are stored away, or find themselves relegated to the basement, only to be rediscovered and repurposed later. 
+    
+     their very nature, the concepts of maintenance and repair are predominantly examined from a process-oriented perspective. ( ① ) The focus in related scholarly discourse often revolves around the lifespan or lifecycle of objects and technologies. ( ② ) In this context, maintenance and repair are considered practices that have the potential to prolong the existence of objects, ensuring their sustained utilization over an extended period. ( ③ ) Krebs and Weber critically engage with anthropomorphic metaphors that imply a biography of things, appropriately highlighting that conventional understanding of the lifecycle of a technology, from its acquisition to its disposal from the household, provides an incomplete definition. ( ④ ) Additionally, objects may enter recycling or second-hand cycles, leading to a dynamic afterlife marked by diverse applications. ( ⑤ ) As such, the life of an object exhibits a far more complicated and adaptive path than a simplistic linear progression. 
+     
+     * relegate: 추방하다 ** anthropomorphic: 의인화된</text>
+    <question_text>[38～39] 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.</question_text>
+    <choices>
+        <choice>1</choice>
+        <choice>2</choice>
+        <choice>3</choice>
+        <choice>4</choice>
+        <choice>5</choice>
+    </choices>
+    <correct_answer>4</correct_answer>
+    <score>2</score>
+</question>

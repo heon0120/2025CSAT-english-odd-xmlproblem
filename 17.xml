@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>[16～17] 다음을 듣고, 물음에 답하시오. 언급된 음식이 아닌 것은?</question_text>
+    <choices>
+        <choice>seaweed</choice>
+        <choice>beans</choice>
+        <choice>pumpkins</choice>
+        <choice>potatoes</choice>
+        <choice>mushrooms</choice>
+    </choices>
+    <correct_answer>4</correct_answer>
+    <score>2</score>
+</question>

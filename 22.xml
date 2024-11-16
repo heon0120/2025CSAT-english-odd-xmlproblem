@@ -1,0 +1,13 @@
+<question>
+    <text>The ability to understand emotions ― to have a diverse emotion vocabulary and to understand the causes and consequences of emotion ― is particularly relevant in group settings. Individuals who are skilled in this domain are able to express emotions, feelings and moods accurately and thus, may facilitate clear communication between co-workers. Furthermore, they may be more likely to act in ways that accommodate their own needs as well as the needs of others (i.e. cooperate). In a group conflict situation, for example, a member with a strong ability to understand emotion will be able to express how he feels about the problem and why he feels this way. He also should be able to take the perspective of the other group members and understand why they are reacting in a certain manner. Appreciation of differences creates an arena for open communication and promotes constructive conflict resolution and improved group functioning.</text>
+    <question_text>다음 글의 요지로 가장 적절한 것은?</question_text>
+    <choices>
+        <choice>집단 구성원 간 갈등 해소를 위해 감정 조절이 중요하다.</choice>
+        <choice>감정 이해 능력은 집단 내 원활한 소통과 협력을 촉진한다.</choice>
+        <choice>타인에 대한 공감 능력은 자신의 감정 표현 능력을 향상한다.</choice>
+        <choice>감정 관련 어휘에 대한 지식은 공감 능력 발달의 기반이 된다.</choice>
+        <choice>자신의 감정 상태에 대한 이해는 사회성 함양에 필수적 요소이다.</choice>
+    </choices>
+    <correct_answer>2</correct_answer>
+    <score>2</score>
+</question>

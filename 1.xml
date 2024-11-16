@@ -1,0 +1,13 @@
+<question>
+    <text>1번부터 17번까지는 듣고 답하는 문제입니다. 1번부터 15번까지는 한 번만 들려주고, 16번부터 17번까지는 두 번 들려줍니다. 방송을 잘 듣고 답을 하시기 바랍니다.</text>
+    <question_text>다음을 듣고, 여자가 하는 말의 목적으로 가장 적절한 것을 고르시오.</question_text>
+    <choices>
+        <choice>학교 종소리 교체 계획을 알리려고</choice>
+        <choice>학교 수업 시간 단축을 공지하려고</choice>
+        <choice>등교 시간 변경을 안내하려고</choice>
+        <choice>학부모 상담 신청서 제출을 독려하려고</choice>
+        <choice>학교 행사 후 교실 정리 정돈을 당부하려고</choice>
+    </choices>
+    <correct_answer>2</correct_answer>
+    <score>2</score>
+</question>

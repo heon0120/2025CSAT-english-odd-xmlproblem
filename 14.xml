@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오. [3점]</question_text>
+    <choices>
+        <choice>Sure. I hope you’ll be able to judge the competition.</choice>
+        <choice>Well done. You’ve advanced to the final round.</choice>
+        <choice>Great. Text me the dates of the competition.</choice>
+        <choice>Don’t worry. We’ll announce the winners shortly.</choice>
+        <choice>I understand. It’s hard to be fair when judging others.</choice>
+    </choices>
+    <correct_answer>1</correct_answer>
+    <score>3</score>
+</question>

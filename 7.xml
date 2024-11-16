@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>대화를 듣고, 남자가 Streamline Broadcasting Workshop에 갈 수 없는 이유를 고르시오.</question_text>
+    <choices>
+        <choice>동아리 공연에 참여해야 해서</choice>
+        <choice>교내 방송 준비를 해야 해서</choice>
+        <choice>야구 경기를 보러 가야 해서</choice>
+        <choice>생일 파티에 참석해야 해서</choice>
+        <choice>선물을 사러 가야 해서</choice>
+    </choices>
+    <correct_answer>3</correct_answer>
+    <score>2</score>
+</question>

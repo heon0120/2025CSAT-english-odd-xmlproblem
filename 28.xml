@@ -1,0 +1,14 @@
+<question>
+    <image>28.png?raw=true</image>
+    <text></text>
+    <question_text>Luckwood Snow Festival에 관한 다음 안내문의 내용과 일치하는 것은?</question_text>
+    <choices>
+        <choice>2년에 한 번 열린다.</choice>
+        <choice>열흘 동안 진행된다.</choice>
+        <choice>눈 조각 경연에는 11개 팀이 참가할 것이다.</choice>
+        <choice>주차가 가능하다.</choice>
+        <choice>셔틀버스 이용은 무료이다.</choice>
+    </choices>
+    <correct_answer>3</correct_answer>
+    <score>2</score>
+</question>

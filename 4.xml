@@ -1,0 +1,14 @@
+<question>
+    <image>4.png?raw=true</image>
+    <text></text>
+    <question_text>대화를 듣고, 그림에서 대화의 내용과 일치하지 않는 것을 고르시오.</question_text>
+    <choices>
+        <choice>1</choice>
+        <choice>2</choice>
+        <choice>3</choice>
+        <choice>4</choice>
+        <choice>5</choice>
+    </choices>
+    <correct_answer>3</correct_answer>
+    <score>2</score>
+</question>

@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>대화를 듣고, Outstanding Octopuses 행사에 관해 언급되지 않은 것을 고르시오.</question_text>
+    <choices>
+        <choice>목적</choice>
+        <choice>프로그램</choice>
+        <choice>후원 기관</choice>
+        <choice>입장료</choice>
+        <choice>기간</choice>
+    </choices>
+    <correct_answer>4</correct_answer>
+    <score>2</score>
+</question>

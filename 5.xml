@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>대화를 듣고, 남자가 할 일로 가장 적절한 것을 고르시오.</question_text>
+    <choices>
+        <choice>트로피 가져오기</choice>
+        <choice>사진 출력하기</choice>
+        <choice>이메일 확인하기</choice>
+        <choice>스티커 주문하기</choice>
+        <choice>게시판 사용 허락받기</choice>
+    </choices>
+    <correct_answer>1</correct_answer>
+    <score>2</score>
+</question>

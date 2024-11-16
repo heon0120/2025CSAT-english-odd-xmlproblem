@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오.</question_text>
+    <choices>
+        <choice>In that case, let’s give it a try.</choice>
+        <choice>I don’t know. It’s a bit expensive.</choice>
+        <choice>That’s the best class we’ve ever taken.</choice>
+        <choice>I’d be happy to teach yoga to beginners.</choice>
+        <choice>You’re right. The hotel’s view is amazing.</choice>
+    </choices>
+    <correct_answer>1</correct_answer>
+    <score>2</score>
+</question>

@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>[16～17] 다음을 듣고, 물음에 답하시오. 여자가 하는 말의 주제로 가장 적절한 것은?</question_text>
+    <choices>
+        <choice>desirable conditions to store food</choice>
+        <choice>importance of having a nutritious diet</choice>
+        <choice>suitable foods to solve future food shortages</choice>
+        <choice>popular dishes made from unusual ingredients</choice>
+        <choice>future technologies to cope with food shortages</choice>
+    </choices>
+    <correct_answer>3</correct_answer>
+    <score>2</score>
+</question>

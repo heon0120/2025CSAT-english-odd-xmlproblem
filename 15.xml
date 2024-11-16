@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>다음 상황 설명을 듣고, Sophia가 Jack에게 할 말로 가장 적절한 것을 고르시오. [3점]</question_text>
+    <choices>
+        <choice>I think it’ll be better to stick to your plan.</choice>
+        <choice>Let’s head out for the concert far in advance.</choice>
+        <choice>We can ask for a seat change so we can sit together.</choice>
+        <choice>Don’t you think we need to rehearse one more time?</choice>
+        <choice>How about leaving the concert early to avoid traffic?</choice>
+    </choices>
+    <correct_answer>2</correct_answer>
+    <score>3</score>
+</question>

@@ -1,0 +1,13 @@
+<question>
+    <text></text>
+    <question_text>대화를 듣고, 여자가 지불할 금액을 고르시오.</question_text>
+    <choices>
+        <choice>$100</choice>
+        <choice>$150</choice>
+        <choice>$180</choice>
+        <choice>$200</choice>
+        <choice>$220</choice>
+    </choices>
+    <correct_answer>4</correct_answer>
+    <score>2</score>
+</question>

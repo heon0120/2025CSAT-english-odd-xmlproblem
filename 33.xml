@@ -1,0 +1,13 @@
+<question>
+    <text>We are famously living in the era of the attention economy, where the largest and most profitable businesses in the world are those that consume my attention. The advertising industry is literally dedicated to capturing the conscious hours of my life and selling them to someone else. It might seem magical that so many exciting and useful software systems are available to use for free, but it is now conventional wisdom that if you can’t see who is paying for something that appears to be free, then _________________. Our creative engagement with other people is mediated by AI-based recommendation systems that are designed to trap our attention through the process that Nick Seaver calls captology, keeping us attending to work sold by one company rather than another, replacing the freedom of personal exploration with algorithm-generated playlists or even algorithm-generated art. [3점]</text>
+    <question_text>[31～34] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오</question_text>
+    <choices>
+        <choice>all of your attention has already been spent</choice>
+        <choice>the real product being sold is you</choice>
+        <choice>your privacy is being violated</choice>
+        <choice>the public may be sponsoring you</choice>
+        <choice>you owe the benefits to your friend AI</choice>
+    </choices>
+    <correct_answer>2</correct_answer>
+    <score>3</score>
+</question>
